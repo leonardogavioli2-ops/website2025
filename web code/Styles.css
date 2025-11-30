@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
+body {
+margin: 0;
+font-family: Arial, sans-serif;
+min-height: 2000px;
+
+}
+nav { background-color: #333;
+padding: 15px; position: fixed;
+top: 0; width: 100%;
+z-index: 1000;
+}
+nav a img {
+width: 200px;
+}
+#inf {
+width: 300px;
+padding: 10px;
+}
+.colored-box-red {
+background-color: #ED1C24;
+padding-top: 60px;
+}
+#inf2 {
+display: block;
+margin: auto;
+} .colored-box-blue {
+background-color: #036AFF;
+padding: 20px;
+}
+.colored-box-blue h1 {
+font-family: 'Monoton', cursive;
+font-size: 40px;
+}
+.colored-box-blue p {
+font-size: 30px;
+}
+.right-img {
+float: right;
+width: 200px;
+margin-left: 10px;
+} .titles {
+font-family: 'Monoton', cursive;
+}
+.inf2 {
+width: 300px;
+padding: 20px;
+}
+.colored-box-team-green {
+background-color:#29d011;
+padding: 20px;
+}
+.colored-box-team-red {
+background-color:#ED1C24;
+padding: 20px;
+}
+.colored-box-team-blue {
+background-color:#036AFF;
+padding: 20px;
+}
+
+.colored-box-team-yellow{
+background-color:#ead61f;
+padding: 20px;
+}
